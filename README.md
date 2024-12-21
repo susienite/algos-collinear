@@ -1,7 +1,7 @@
 # Princeton Algorithms Part 1 - Collinear
 
 Individual project created in 2021 to review algorithms </br>
-Passed with grade 85% and above </br>
+Passed </br>
 
 About Project </br>
 Brute Collinear Points:  </br>
@@ -12,5 +12,6 @@ Brute Collinear Points:  </br>
  * and between p and s are all equal. </br>
 
 Fast Collinear Points:
-
-
+ * Given a set of n distinct points in the plane,
+ * find every (maximal) line segment that connects a subset of
+ * 4 or more of the points.
